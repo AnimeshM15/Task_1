@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Animesh@123",
+    "database": "todo_dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Animesh@123",
+    "database": "todo_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
+ 
